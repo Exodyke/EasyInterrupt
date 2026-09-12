@@ -1,0 +1,6 @@
+## Interface: 30300
+## Title: [|cffFFFF00Easy|r|cffFF4500Interrupt|r] by |cffc41f3bExodyke|r
+## Author: Exodyke
+## SavedVariables: EasyInterruptDB
+
+EasyInterrupt.lua
